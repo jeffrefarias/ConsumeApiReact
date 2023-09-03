@@ -1,0 +1,5 @@
+.meal-image {
+    width: 400px;
+    height: 300px;
+    object-fit: cover; /* Esto asegura que la imagen se redimensione adecuadamente */
+  }
