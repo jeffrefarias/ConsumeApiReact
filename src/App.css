@@ -1,5 +1,14 @@
+body{
+  background-image: linear-gradient(rgba(255,255,255,0.5), rgba(255,255,255,0.5)), url('../src/assets/img/Completo_italiano.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-attachment: fixed;
+ 
+}
+
 .meal-image {
     width: 400px;
     height: 300px;
-    object-fit: cover; /* Esto asegura que la imagen se redimensione adecuadamente */
+    object-fit: cover;
   }
+
